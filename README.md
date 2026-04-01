@@ -145,7 +145,7 @@ cloud-mail
 
 ## 许可证
 
-本项目采用 [MIT](LICENSE) 许可证	
+本项目采用 [MIT](LICENSE) 许可证 	
 
 
 ## 交流
