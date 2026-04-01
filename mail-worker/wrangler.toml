@@ -31,8 +31,8 @@ crons = ["0 16 * * *"]	#定时任务每天晚上12点执行
 
 [vars]
 #orm_log = false
-domain = ["lxyfn.top"]				#邮件域名可可配置多个 示例: ["example1.com","example2.com"]
-admin = "admin@lxyfn.top"				#管理员的邮箱	示例: admin@example.com
+domain = ["adasvcc.com"]				#邮件域名可可配置多个 示例: ["example1.com","example2.com"]
+admin = "admin@adasvcc.com"				#管理员的邮箱	示例: admin@example.com
 jwt_secret = "ax8822vbc0912fasd"			#jwt令牌的密钥,随便填一串字符串
 
 [build]
